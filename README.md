@@ -11,6 +11,6 @@ Python3 Or Any stable version Above 2.7
 PyQt5>=5 Or New
 PyQtWebEngine
 
- If you think this example app is neat and want to learn more about
+ Want to learn more & Check new tutorials about
 Python in general, visit (https://tutsin.in)
 
